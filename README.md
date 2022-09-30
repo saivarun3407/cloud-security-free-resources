@@ -13,3 +13,8 @@ https://github.com/RhinoSecurityLabs/cloudgoat
 • Complete notes can be found here: https://0xd4y.com/2022/03/15/AWS-Security-Specialty-Notes/
 • Goes over AWS from a security engineer point of view
 • Talks about data encryption, correct configurations of the cloud, etc.
+
+𝐂𝐮𝐫𝐚𝐭𝐞𝐝 𝐥𝐢𝐬𝐭 𝐨𝐟 𝐀𝐖𝐒 𝐏𝐞𝐧𝐭𝐞𝐬𝐭𝐢𝐧𝐠 𝐕𝐢𝐝𝐞𝐨𝐬
+ 
+• I highly recommend checking out as many videos as possible in this playlist.
+https://www.youtube.com/playlist?list=PLbT8rDUmot22PkfO-zJNKOwiE1dSkmGDP
