@@ -1,3 +1,3 @@
 # Cloud-Security-free-resources
-in this repo you will find many cloud security learning resources.
+In this r3p0 you will find many Cloud Security Learning Resources.
 https://learntocloud.guide
